@@ -1,0 +1,94 @@
+body{
+  background-color: #333333;
+  color: #ffffff;
+  font-family: Futura;
+  padding: 10px;
+}
+
+/* NAVIGATION */
+.nav-links{
+  margin-bottom: 30px;
+  padding-left: 17%;
+}
+.nav-links ul li{
+  background-color: #cccccc;
+  border-radius: 5px;
+  color: #ffffff;
+  display: inline;
+  list-style-type: none;
+  margin: 5px;
+  padding: 10px;
+}
+.nav-links a:link{
+  color: #ffffff;
+  text-decoration: none;
+}
+.nav-links a:visited{
+  color: #ffffff;
+}
+.nav-links a:hover{
+  color: blue;
+}
+/* END NAVIGATION */
+
+p{
+  font-size: 22px;
+}
+
+h1, h2, h3, h4, h5, h6{
+  text-align: center;
+}
+
+/* LESSON_2_1 */
+.welcome{
+  background-color: #fff;
+  border: 3px double #81DAF5;
+  color: #000;
+  margin: 10px;
+  text-align: center;
+}
+
+.today{
+  background-color: #fff;
+  border: 3px double #81DAF5;
+  color: #000;
+  margin: 10px;
+  text-align: center;
+}
+
+/* LESSON_2_4 */
+.fonts{
+  float: right;
+  width: 45%;
+  height: 45%;
+}
+
+.colors{
+  float: left;
+  width: 45%;
+  height: 45%;
+}
+
+.empty{
+  clear: both;
+  padding: 100px;
+}
+
+/* BUTTONS */
+.next{
+  background-color: #fff;
+  border: 3px dotted #81DAF5;
+  float: right;
+  padding: 20px;
+  margin-bottom: 50px;
+}
+
+.back{
+  background-color: #fff;
+  border: 3px dotted #81DAF5;
+  float: left;
+  padding: 20px;
+  margin-bottom:  50px;
+}
+
+/* EOF */
